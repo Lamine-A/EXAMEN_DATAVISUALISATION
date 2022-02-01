@@ -17,3 +17,6 @@ Pour obtenir l'adressre, il suffit de zoomer sur un endroit de la carte, ou tout
 
 Données des différents commerces selon la localisation et la disponibilité : 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/les-commerces-par-commune-ou-arrondissement-base-permanente-des-equipements@datailedefrance/table/?sort=departement&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+
+Données des différentes bornes de recharge et localisation des bornes : 
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve@public/table/?q=ile%20de%20france&geofilter.distance=49.48008162022706,1.7578125,148475.77503457383&location=8,48.70909,2.21649&basemap=jawg.streets&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
