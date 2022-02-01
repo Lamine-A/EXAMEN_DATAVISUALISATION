@@ -12,3 +12,5 @@ Donc c'est à partir de cette visualisation que les possesseurs des voitures él
 ## Repérage des différentes structures 
 Donc, nous constatons que si n jour, on veut faire des courcses avec une voiture électrique, les meilleurs endroits sont ceux ou les deux couleurs rouge et bleu se croisent, dans le cas ou les deux couleurs ne se croisent pas ou elles sont éloignées, l'un des deux endroits n'est pas dispopnible (Bornes ou centres commérciaux).
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/irve0/?&static=false&scrollWheelZoom=false"></iframe>
+Pour obtenir l'adressre, il suffit de zoomer sur un endroit, ou tout simplemnt de rpérer l'endroit dans la visualisation des tableaux qui suit : 
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/les-commerces-par-commune-ou-arrondissement-base-permanente-des-equipements@datailedefrance/table/?sort=departement&static=false&datasetcard=true" width="800" height="600" frameborder="0"></iframe>
