@@ -10,4 +10,5 @@
 Donc c'est à partir de cette visualisation que les possesseurs des voitures électriques puissent se reperer afin de bien alimenter leurs vehicules des charges électriques nécessaires, pour faire bien j'ai décidé donc de reprer en plus des bornes de charges, les locaux commerciaux disponibles aux alentours, cela va permettre à n'importe quelle personne de recharcher son vehéicule tout en faisant les courses et les différents magasins.
 
 ## Repérage des différentes structures 
+Donc, nous constatons que si n jour, on veut faire des courcses avec une voiture électrique, les meilleurs endroits sont ceux ou les deux couleurs rouge et bleu se croisent, dans le cas ou les deux couleurs ne se croisent pas ou elles sont éloignées, l'un des deux endroits n'est pas dispopnible (Bornes ou centres commérciaux).
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/irve0/?&static=false&scrollWheelZoom=false"></iframe>
