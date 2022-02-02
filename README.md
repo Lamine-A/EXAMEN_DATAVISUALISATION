@@ -24,4 +24,5 @@ Données des différentes bornes de recharge et localisation des bornes :
 
 Il est plus conseillé d'aller dans les endroits ou on peut trouver le plus de bornes, on a plus de chance de trouver une place dans une station à 30 bornes que dans une station à 5 bornes, surtout en région parisienne, donc les barres suivantes permettent de donner par régions (classées par ordre alphabétique), le nombre de bornes dans chaque ville : 
 <iframe src="https://data.opendatasoft.com/chart/embed/nombre_de_points/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+Les communes sont classées en ordre alphabétique en allant de guache à droite
 
