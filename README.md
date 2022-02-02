@@ -36,8 +36,9 @@ En voyant la disponibilité de la plupart des personnes, certaines travaillent e
 
 ## Etude d'une ville précise 
 
-Un exemple pour la ville de sèvre pour des recherches plus affinés, concernant toutes les bornes à proximité des restaurants
+Un exemple pour la ville de sèvre pour des recherches plus affinés, concernant toutes les bornes à proximité des restaurants, j'avais filtré sur la région concernée avec un cercle, cela permetra d'éviter toutes les autres villes au nom de sèvres, qui peuvent notamment se trouver hors france.
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/commerces/?&static=false&scrollWheelZoom=false"></iframe>
+
 
 
 
