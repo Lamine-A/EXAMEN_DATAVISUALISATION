@@ -4,7 +4,7 @@
 1. [Introduction et Objectif](#Explication du choix du sujet et de l'utilité e cette visualisation)
 2. [Repérage des différentes structures & Présentation de l'ensemble des données](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
 3. [Prévoir les endroits qui ont le polus de bornes augmentera votre chance de trouver une borne](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
-4. [Les points toujours ouvers 7/7 et 24/24](#Repérage des bornes toujours ouvertes et gratuites) 
+4. [Les points toujours ouverts 7/7 et 24/24 et gratuites](#Repérage des bornes toujours ouvertes et gratuites) 
 5. [Etude d'une ville précise](#Cela concerne les personnes habitant à proximité de sèvres et dont le trajet n'est pas long)
 
 
@@ -19,7 +19,9 @@ Donc c'est à partir de cette visualisation que les possesseurs des voitures él
 Donc, nous constatons que si n jour, on veut faire des courcses avec une voiture électrique, les meilleurs endroits sont ceux ou les deux couleurs rouge et bleu se croisent, dans le cas ou les deux couleurs ne se croisent pas ou elles sont éloignées, l'un des deux endroits n'est pas dispopnible (Bornes ou centres commérciaux).
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/irve0/?&static=false&scrollWheelZoom=false"></iframe>
 
-Pour obtenir l'adressre, il suffit de zoomer sur un endroit de la carte, ou tout simplement de rpérer l'endroit dans la visualisation des tableaux qui suit, cela nous permet aussi d'avoir plus d'informations sur le types des commerces à trouver, donner la géolocalisation, ainsi que les différents éléments de l'adresse postale :
+Pour obtenir l'adressre, il suffit de zoomer sur un endroit de la carte, ou tout simplement de rpérer l'endroit dans la visualisation des tableaux qui suit, cela nous permet aussi d'avoir plus d'informations sur le types des commerces à trouver, donner la géolocalisation, ainsi que les différents éléments de l'adresse postale.
+
+
 Données des différents commerces selon la localisation et la disponibilité : 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/les-commerces-par-commune-ou-arrondissement-base-permanente-des-equipements@datailedefrance/table/?sort=departement&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
@@ -35,9 +37,9 @@ Il est plus conseillé d'aller dans les endroits ou on peut trouver le plus de b
 Les communes sont classées en ordre alphabétique en allant de guache à droite
 
 
-## Les points toujours ouvers 7/7 et 24/24 
+## Les points toujours ouvetrs 7/7 et 24/24 et gratuits
 
-En voyant la disponibilité de la plupart des personnes, certaines travaillent et certaines s'occupent de beaucoup de choses avant d'aller faire les courses, il faut s'y rendre aux endroits ou on ne craint pas de fermeture des bornes.
+En voyant la disponibilité de la plupart des personnes, certaines travaillent et certaines s'occupent de beaucoup de choses avant d'aller faire les courses, il faut s'y rendre aux endroits ou on ne craint pas de fermeture des bornes, ni de payer ce qui nous evitera plus de charges au quotidien, ce sont tout simplement des bornes disponibles à tous gratuitemnt et à n'importe quel moment.
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve@public/analyze/?q=ILE%20DE%20FRANCE&refine.accessibilite=24h%2F24&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZpY2hpZXItY29uc29saWRlLWRlcy1ib3JuZXMtZGUtcmVjaGFyZ2UtcG91ci12ZWhpY3VsZXMtZWxlY3RyaXF1ZXMtaXJ2ZUBwdWJsaWMiLCJvcHRpb25zIjp7InEiOiJJTEUgREUgRlJBTkNFIiwicmVmaW5lLmFjY2Vzc2liaWxpdGUiOiIyNGgvMjQifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6InNjYXR0ZXIiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJuYnJlX3BkYyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMxNDJFN0IiLCJwb3NpdGlvbiI6ImNlbnRlciJ9XSwieEF4aXMiOiJjb21tdW5lIiwibWF4cG9pbnRzIjoyMDAsInRpbWVzY2FsZSI6IiIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIifV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWUsInRpbWVzY2FsZSI6IiJ9&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
