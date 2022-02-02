@@ -54,7 +54,8 @@ Un exemple pour la ville de sèvres en région Hauts-de-seine pour des recherche
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/commerces/?&static=false&scrollWheelZoom=false"></iframe>
 
 
-##Requêtage pour trouver le meilleur endroit 
+## Requêtage 
+
 ## ![alt tag](https://w.wiki/4nMx)
 Donc nous avons la requete suivante : 
 
