@@ -22,6 +22,7 @@ Données des différents commerces selon la localisation et la disponibilité :
 Données des différentes bornes de recharge et localisation des bornes : 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve@public/table/?q=ile%20de%20france&geofilter.distance=49.48008162022706,1.7578125,148475.77503457383&location=8,48.70909,2.21649&basemap=jawg.streets&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
+## Prévoir les endroits qui ont le polus de bornes augmentera votre chance de trouver une borne
 Il est plus conseillé d'aller dans les endroits ou on peut trouver le plus de bornes, on a plus de chance de trouver une place dans une station à 30 bornes que dans une station à 5 bornes, surtout en région parisienne, donc les barres suivantes permettent de donner par régions (classées par ordre alphabétique), le nombre de bornes dans chaque ville : 
 <iframe src="https://data.opendatasoft.com/chart/embed/nombre_de_points/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 Les communes sont classées en ordre alphabétique en allant de guache à droite
