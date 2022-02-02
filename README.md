@@ -4,7 +4,7 @@
 1. [Introduction et Objectif](#Explication du choix du sujet et de l'utilité e cette visualisation)
 2. [Repérage des différentes structures & Présentation de l'ensemble des données](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
 3. [Prévoir les endroits qui ont le polus de bornes augmentera votre chance de trouver une borne](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
-4. [Les points toujours ouvers 7/7 et 24/24](#Repérage des bornes toujours ouvetrtes et gratuites) 
+4. [Les points toujours ouvers 7/7 et 24/24](#Repérage des bornes toujours ouvertes et gratuites) 
 
 
 ## Introduction et Objectif
