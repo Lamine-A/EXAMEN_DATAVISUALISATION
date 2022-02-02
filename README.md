@@ -6,6 +6,7 @@
 3. [Prévoir les endroits qui ont le polus de bornes augmentera votre chance de trouver une borne](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
 4. [Les points toujours ouverts 7/7 et 24/24 et gratuites](#Repérage des bornes toujours ouvertes et gratuites) 
 5. [Etude d'une ville précise](#Cela concerne les personnes habitant à proximité de sèvres et dont le trajet n'est pas long)
+6. [Requêtage](#la requête wikidata permetera de trouver la localisation, connaitre le nombre d'habitants) 
 
 
 ## Introduction et Objectif
@@ -53,7 +54,7 @@ Un exemple pour la ville de sèvres en région Hauts-de-seine pour des recherche
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/commerces/?&static=false&scrollWheelZoom=false"></iframe>
 
 
-##Requetage pour trouver le meilleur endroit 
+##Requêtage pour trouver le meilleur endroit 
 
 Donc nous avons la requete suivante : 
 
