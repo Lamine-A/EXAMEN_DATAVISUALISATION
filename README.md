@@ -4,6 +4,7 @@
 1. [Introduction et Objectif](#Explication du choix du sujet et de l'utilité e cette visualisation)
 2. [Repérage des différentes structures & Présentation de l'ensemble des données](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
 3. [Prévoir les endroits qui ont le polus de bornes augmentera votre chance de trouver une borne](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
+4. [Les points toujours ouvers 7/7 et 24/24] (#Repérage des bornes toujours ouvetrtes et gratuites) 
 
 
 ## Introduction et Objectif
@@ -26,4 +27,10 @@ Données des différentes bornes de recharge et localisation des bornes :
 Il est plus conseillé d'aller dans les endroits ou on peut trouver le plus de bornes, on a plus de chance de trouver une place dans une station à 30 bornes que dans une station à 5 bornes, surtout en région parisienne, donc les barres suivantes permettent de donner par régions (classées par ordre alphabétique), le nombre de bornes dans chaque ville : 
 <iframe src="https://data.opendatasoft.com/chart/embed/nombre_de_points/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 Les communes sont classées en ordre alphabétique en allant de guache à droite
+
+## Les points toujours ouvers 7/7 et 24/24 
+
+En voyant la disponibilité de la plupart des personnes, certaines travaillent et certaines s'occupent de beaucoup de choses avant d'aller faire les courses, il faut s'y rendre aux endroits ou on ne craint pas de fermeture des bornes.
+
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve@public/analyze/?q=ILE%20DE%20FRANCE&refine.accessibilite=24h%2F24&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZpY2hpZXItY29uc29saWRlLWRlcy1ib3JuZXMtZGUtcmVjaGFyZ2UtcG91ci12ZWhpY3VsZXMtZWxlY3RyaXF1ZXMtaXJ2ZUBwdWJsaWMiLCJvcHRpb25zIjp7InEiOiJJTEUgREUgRlJBTkNFIiwicmVmaW5lLmFjY2Vzc2liaWxpdGUiOiIyNGgvMjQifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6InNjYXR0ZXIiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJuYnJlX3BkYyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMxNDJFN0IiLCJwb3NpdGlvbiI6ImNlbnRlciJ9XSwieEF4aXMiOiJjb21tdW5lIiwibWF4cG9pbnRzIjoyMDAsInRpbWVzY2FsZSI6IiIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIifV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWUsInRpbWVzY2FsZSI6IiJ9&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
