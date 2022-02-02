@@ -55,8 +55,8 @@ Un exemple pour la ville de sèvres en région Hauts-de-seine pour des recherche
 
 
 ## Requêtage 
+![alt tag](https://github.com/Lamine-A/EXAMEN_DATAVISUALISATION/issues/1#issuecomment-1028379380)
 
-## ![alt tag](https://github.com/Lamine-A/EXAMEN_DATAVISUALISATION/issues/1#issuecomment-1028379380)
 Donc nous avons la requete suivante : 
 
 Qui affichera le résultat suivant :
