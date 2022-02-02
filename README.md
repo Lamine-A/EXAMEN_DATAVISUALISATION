@@ -55,7 +55,7 @@ Un exemple pour la ville de sèvres en région Hauts-de-seine pour des recherche
 
 
 ##Requêtage pour trouver le meilleur endroit 
-
+## ![alt tag](https://w.wiki/4nMx)
 Donc nous avons la requete suivante : 
 
 #Communes_île_de_france
