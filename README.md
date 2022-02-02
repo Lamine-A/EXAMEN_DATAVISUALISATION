@@ -3,6 +3,7 @@
 ## Sommaire :
 1. [Introduction et Objectif](#Explication du choix du sujet et de l'utilité e cette visualisation)
 2. [Repérage des différentes structures & Présentation de l'ensemble des données](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
+3. [Prévoir les endroits qui ont le polus de bornes augmentera votre chance de trouver une borne](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
 
 
 ## Introduction et Objectif
@@ -23,3 +24,4 @@ Données des différentes bornes de recharge et localisation des bornes :
 
 Il est plus conseillé d'aller dans les endroits ou on peut trouver le plus de bornes, on a plus de chance de trouver une place dans une station à 30 bornes que dans une station à 5 bornes, surtout en région parisienne, donc les barres suivantes permettent de donner par régions (classées par ordre alphabétique), le nombre de bornes dans chaque ville : 
 <iframe src="https://data.opendatasoft.com/chart/embed/nombre_de_points/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+
