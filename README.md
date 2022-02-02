@@ -59,21 +59,6 @@ Un exemple pour la ville de sèvres en région Hauts-de-seine pour des recherche
 ## ![alt tag](https://github.com/Lamine-A/EXAMEN_DATAVISUALISATION/issues/1#issuecomment-1028379380)
 Donc nous avons la requete suivante : 
 
-#Communes_île_de_france
-SELECT ?item ?population ?localisation ?noms WHERE
-{
-?item wdt:P131 wd:Q13917.
-OPTIONAL {
-?item wdt:P18 ?image. #affichier les images
-?item wdt:P1448 ?noms.
-?item wdt:P1082 ?population .#Nombre de personnes habitant la région
-?item wdt:P625 ?localisation. #Recherche gps
-}
-  SERVICE wikibase:label {bd:serviceParam wikibase:language "fr"}
-}
-
-ORDER BY DESC (?population)
-
 Qui affichera le résultat suivant :
 
 Les résultats de la requete permettent en premier lieu, par esemple à des personnes étrangères de trouver facilmeent la localisation de la commune dont dépend la ville qu'ils sohaitent visiter, deuxièmement elle permet aux personnes souhaitant faire les magasins par exemple de savoir ou se trouve la commune la moins peuplé qui évitera de ne pas trouver des points de recharges.
