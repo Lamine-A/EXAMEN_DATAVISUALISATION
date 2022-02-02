@@ -5,7 +5,7 @@
 2. [Repérage des différentes structures & Présentation de l'ensemble des données](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
 3. [Prévoir les endroits qui ont le polus de bornes augmentera votre chance de trouver une borne](#Pouvoir repérer les bornes et les magasins en distingant les deux avec une légende et des icones)
 4. [Les points toujours ouvers 7/7 et 24/24](#Repérage des bornes toujours ouvertes et gratuites) 
-
+5. [Etude d'une ville précise](#Cela concerne les personnes habitant à proximité de sèvres et dont le trajet n'est pas long)
 
 ## Introduction et Objectif
   Dans notre vie quotidienne en France, nous trouvons de plus en plus un difficulté de vivre, c'est pourquoi certains ont préféré l'utilisation des voitures électriques au détriment des autres qui coutent cheres niveau essence, gazoil ... 
@@ -33,4 +33,11 @@ Les communes sont classées en ordre alphabétique en allant de guache à droite
 En voyant la disponibilité de la plupart des personnes, certaines travaillent et certaines s'occupent de beaucoup de choses avant d'aller faire les courses, il faut s'y rendre aux endroits ou on ne craint pas de fermeture des bornes.
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve@public/analyze/?q=ILE%20DE%20FRANCE&refine.accessibilite=24h%2F24&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImZpY2hpZXItY29uc29saWRlLWRlcy1ib3JuZXMtZGUtcmVjaGFyZ2UtcG91ci12ZWhpY3VsZXMtZWxlY3RyaXF1ZXMtaXJ2ZUBwdWJsaWMiLCJvcHRpb25zIjp7InEiOiJJTEUgREUgRlJBTkNFIiwicmVmaW5lLmFjY2Vzc2liaWxpdGUiOiIyNGgvMjQifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6InNjYXR0ZXIiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJuYnJlX3BkYyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMxNDJFN0IiLCJwb3NpdGlvbiI6ImNlbnRlciJ9XSwieEF4aXMiOiJjb21tdW5lIiwibWF4cG9pbnRzIjoyMDAsInRpbWVzY2FsZSI6IiIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiIiLCJzZXJpZXNCcmVha2Rvd25UaW1lc2NhbGUiOiIifV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWUsInRpbWVzY2FsZSI6IiJ9&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+
+## Etude d'une ville précise 
+
+Un exemple pour la ville de sèvre pour des recherches plus affinés, concernant toutes les bornes à proximité des restaurants
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/commerces/?&static=false&scrollWheelZoom=false"></iframe>
+
+
 
